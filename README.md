@@ -1,4 +1,5 @@
 # Aula Bootstrap
 
-Aprendendo Bootstrap! :computer:
+### Aprendendo Bootstrap! :computer:
 
+!Abra o arquivo "index.html"
